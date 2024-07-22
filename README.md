@@ -68,3 +68,6 @@ For this workshop you need the following:
 ## Cheat Sheet
 Find common terminology for reference [here](./CheatSheet.md)
 
+## Check action trigger
+Check that the action is triggered by this change
+
